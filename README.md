@@ -12,8 +12,14 @@
 
 侧滑栏
 
+![图片加载失败](https://github.com/w127/myAPP/blob/master/Android%E4%BE%A7%E6%BB%91%E6%A0%8F.png)
+
 下拉刷新
 
+![图片加载失败](https://github.com/w127/myAPP/blob/master/Android%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0.png)
+
 页面滑动
+
+![图片加载失败](https://github.com/w127/myAPP/blob/master/Android%E9%A1%B5%E9%9D%A2%E6%BB%91%E5%8A%A8.png)
 
 大部分都是在《第一行代码》中学习的，网络请求使用okhttp也是在书上学习的，但不知道为什么没有一点点反应。最大的bug…还有个别的实现借鉴了CSDN中的方法
